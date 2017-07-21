@@ -1,0 +1,5 @@
+target 'XMIMageTest' do
+
+pod 'SDWebImage'
+
+end
